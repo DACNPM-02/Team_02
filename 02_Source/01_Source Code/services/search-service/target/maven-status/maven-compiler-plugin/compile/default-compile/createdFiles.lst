@@ -1,0 +1,13 @@
+com\example\searchservice\config\ElasticsearchIndexInitializer.class
+com\example\searchservice\model\Accommodation.class
+com\example\searchservice\controller\AccommodationController.class
+com\example\searchservice\service\DataSyncService.class
+com\example\searchservice\repository\elastic\AccommodationElasticRepository.class
+com\example\searchservice\SearchServiceApplication.class
+com\example\searchservice\service\AccommodationService.class
+com\example\searchservice\config\ElasticsearchConfig.class
+com\example\searchservice\listener\AccommodationEventListener.class
+com\example\searchservice\controller\DataSyncController.class
+com\example\searchservice\repository\jpa\AccommodationRepository.class
+com\example\searchservice\service\GeocodingService.class
+com\example\searchservice\config\JpaConfig.class
